@@ -1,2 +1,2 @@
 # oui-chef
-Submission for hackathon
+Submission for the Vertical Specific AI Agents Hackathon
